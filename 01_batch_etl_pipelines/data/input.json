@@ -1,0 +1,4 @@
+{"id": 1, "name": "Alice", "country": "IN", "salary": 120000}
+{"id": 2, "name": "Bob", "country": "US", "salary": 90000}
+{"id": 3, "name": "Charlie", "country": "IN", "salary": 150000}
+{"id": null, "name": "Invalid", "country": "UK", "salary": 50000}
